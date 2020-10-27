@@ -59,7 +59,7 @@
   <div id="content">
    
 <h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
-<p>2. Індивідуальне завдання <img src="Desert.jpg" alt="завдання"> </p> 
+<p>2. Індивідуальне завдання <img src="Лаб2.Денисюк" alt="завдання"> </p> 
 <p>3. <iframe src="lab2.pdf" width="500" height="700"></iframe></p> 
 <p>4. <a href="https://drive.google.com/file/d/1uU1bl77QzlGcP6tgOVXJAH4XLYVmvi19/view?usp=sharing">Посилання на Гугл диск</a></p> 
 <p>5. <a href="https://pnpu-my.sharepoint.com/:w:/g/personal/denisyuk_va_pdpu_edu_ua/EfZ9M2n0nKpEsALMtN2BJUcBsk2kaMpvHMw2m3hWCM0npg?e=gyqfvi">Формат Microsoft (*.docx)</a></p> 
